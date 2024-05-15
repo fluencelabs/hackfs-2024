@@ -26,12 +26,12 @@ If your application or library requires RPC, consider using [fRPC](https://githu
 
 ### Best Contributions To Improving The Fluence Marketplace -- 3 x USDC 1,000.00
 
-Improve or expand on Fluence [indexing](), [dashboard(s)]() or [marketplace](). For a link to the current explorers and dashboards see the [dar network](https://dar.fluence.dev/) page.
+Improve or expand on Fluence [indexing](https://github.com/fluencelabs/deal/tree/main/subgraph), [dashboard(s)](https://github.com/fluencelabs/ops/tree/main/kras/jobs/fluence/blockscout) or [marketplace](https://github.com/fluencelabs/deal/). For a link to the current explorers and dashboards see the [dar network](https://dar.fluence.dev/) page.
 
 
 For a little inspiration, consider:
 
-* Improve the marketplace by extending/complementing the matcher with a spot auction or
+* Improve the marketplace by extending/complementing the [matcher](https://github.com/fluencelabs/deal/blob/main/src/core/modules/market/Matcher.sol) with a spot auction or
 * Implement (liquid) staking pools to delegators
 * Implement a new [faucet](https://faucet.dar.fluence.dev/) using a Web3 auth approach such as [SIWE](https://github.com/spruceid/siwe)
 
