@@ -20,7 +20,7 @@ Create a decentralized application from Fluence cloudless functions. Your applic
 Need some ideas?
 
 * Get your AI on with Fluence and port the [openai-chagpt-api](https://github.com/uiuifree/rust-openai-chatgpt-api) crate to Marine and implement a demo application using Aqua or
-* Embrace cryptography and port a (Rust) MPC library to Marine and implement a demo application covering key generation, signing and key refresh with Aqua
+* Embrace cryptography and port a (Rust) MPC TSS library to Marine and implement a demo application covering key generation, signing and key refresh with Aqua
 
 If your application or library requires RPC, consider using [fRPC](https://github.com/fluencelabs/fRPC-Substrate) for bonus points.
 
